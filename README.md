@@ -1,6 +1,10 @@
-# ML_Project04
-Machine Learning Image Classification - Pneumonia Detection from X-Ray Images
+# ML_Project04:
+Deep Learning Image Classification - Pneumonia Detection from X-Ray Images using Transfer Learning Inception V3 model.
 
+# Prediction Results:
+ - Precision     : 89.74%
+ - Recall        : 98.72%
+ - F1-Score      : 94.02%
 
 ## Transfer Learning:
 The use of two transfer learning techniques back-to-back:
@@ -12,7 +16,7 @@ The use of two transfer learning techniques back-to-back:
 ## Expected outcomes: 
 To see a significant improvement in acccuracy and loss between the Frozen adn the Fine-Tune transfer learning steps, with no overfitting.
 
-## Expected Benefits:
+## Expected benefits: 
 - the bottom layers is better generalized for X-Ray images, rather than normal images.
 - faster training times, from the reduction in the batch size and number of epochs.
 - reduced cost for high-end computing.
