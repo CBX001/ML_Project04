@@ -1,7 +1,7 @@
 # ML_Project04:
 Deep Learning Image Classification - Pneumonia Detection from X-Ray Images using Transfer Learning Inception V3 model.
 
-# Prediction Results:
+## Prediction Results:
  - Precision     : 89.74%
  - Recall        : 98.72%
  - F1-Score      : 94.02%
